@@ -16,7 +16,7 @@
 title: leo's landing page
 email: leonore@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  little things to keep my makings organised. uofg <> london
+  little things to keep my makings organised! uofg <> london
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  leonore
