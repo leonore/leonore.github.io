@@ -5,8 +5,8 @@ date:   2019-08-01 21:40:33 +0100
 categories: text
 ---
 
-* [ ]  Add a page for my CV    
-* [ ]  Add a few coding projects   
+[X]  Add a page for my CV    
+[ ]  Add a few coding projects   
 
 Here's my favourite script:
 
