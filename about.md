@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Final year Computing Science student @ the University of Glasgow, graduating in June 2020. Intern in finance in London over summer 2019. I like design things, making coherent playlists with nice covers, and playing football.
+Graduated (with a lack of ceremony) with a degree in Computing Science from the University of Glasgow in 2020. Decided to live in London long-term after the summer of 2019 interning for a hedge fund. I am currently working as a Back End Engineer at Thought Machine, where I am increasingly favouring Golang over Python. I like design things, picking the best playlist covers for Spotify playlists, and playing football.
