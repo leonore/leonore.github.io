@@ -1,0 +1,43 @@
+html, body {
+    height: 100%;
+    font-family: 'Inter', sans-serif;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    word-wrap: break-word;
+    width: 600px;
+}
+
+.social {
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+a.title {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(106, 107, 110);
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+img.resize {
+    height: 20px;
+    width: 20px;
+}
